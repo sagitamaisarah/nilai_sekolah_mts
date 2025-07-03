@@ -1,8 +1,7 @@
 # SIMNS
-Sistem Informasi Management Nilai Siswa MTS sirajul huda paok dandak (SMS Gateway - Gammu).
+Sistem Informasi Management Nilai Siswa SMP (SMS Gateway - Gammu).
 
-![1](https://cloud.githubusercontent.com/assets/img/dashboard.png)
-![2](https://cloud.githubusercontent.com/assets/laporan_nilai.png)
-![3](https://cloud.githubusercontent.com/assets/img/nilai_rapot.png)
-![4](https://cloud.githubusercontent.com/assets/img/nilai_ulangan.png)
-
+![1]https://github.com/sagitamaisarah/nilai_sekolah_mts/blob/main/dashboard.png
+![2]https://github.com/sagitamaisarah/nilai_sekolah_mts/blob/main/laporan_nilai.png
+![3]https://github.com/sagitamaisarah/nilai_sekolah_mts/blob/main/nilai_rapot.png
+![4]https://github.com/sagitamaisarah/nilai_sekolah_mts/blob/main/nilai_ulangan1.png
