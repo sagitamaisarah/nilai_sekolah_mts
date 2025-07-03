@@ -1,6 +1,8 @@
-# Sistem Informasi Nilai Siswa (SINS) MTS Sirajul Huda Paok Dandak
+# SIMNS
+Sistem Informasi Management Nilai Siswa MTS sirajul huda paok dandak (SMS Gateway - Gammu).
 
-![Dashboard Siswa](assets/img/dashboard.png)
-![Input Nilai](assets/img/laporan_nilai.png)
-![Raport Cetak](assets/img/nilai_rapot.png)
-![Tabel Nilai](assets/img/nilai_ulangan1.png)
+![1](https://cloud.githubusercontent.com/assets/img/dashboard.png)
+![2](https://cloud.githubusercontent.com/assets/laporan_nilai.png)
+![3](https://cloud.githubusercontent.com/assets/img/nilai_rapot.png)
+![4](https://cloud.githubusercontent.com/assets/img/nilai_ulangan.png)
+
