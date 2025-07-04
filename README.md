@@ -1,7 +1,8 @@
-# SIMNS
-Sistem Informasi Management Nilai Siswa SMP (SMS Gateway - Gammu).
+# Sistem Informasi Management Nilai SISWA MTS (SIMNM)
 
-[1]https://github.com/sagitamaisarah/nilai_sekolah_mts/blob/main/dashboard.png
-![2]https://github.com/sagitamaisarah/nilai_sekolah_mts/blob/main/laporan_nilai.png
-![3]https://github.com/sagitamaisarah/nilai_sekolah_mts/blob/main/nilai_rapot.png
-![4]https://github.com/sagitamaisarah/nilai_sekolah_mts/blob/main/nilai_ulangan1.png
+Sistem Informasi Management Nilai Siswa MTS(SMS Gateway - Gammu)
+
+![Dashboard](https://raw.githubusercontent.com/sagitamaisarah/nilai_sekolah_mts/main/dashboard.png)
+![Laporan Nilai](https://raw.githubusercontent.com/sagitamaisarah/nilai_sekolah_mts/main/laporan_nilai.png)
+![Nilai Raport](https://raw.githubusercontent.com/sagitamaisarah/nilai_sekolah_mts/main/nilai_rapot.png)
+![Nilai Ulangan](https://raw.githubusercontent.com/sagitamaisarah/nilai_sekolah_mts/main/nilai_ulangan1.png)
